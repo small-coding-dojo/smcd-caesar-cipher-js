@@ -1,10 +1,9 @@
-# js-kata-base
-Basic Repo to fork or branch for a Javascript Coding Kata
+# CaeSar Cipher Kata
 
 [![Open This Repo in GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer)
 
 ## Useful Online Tools for a Coding Dojo
-* https://mobti.me/
+* https://mobti.me
     Mob timer for a Team scheduling driver and navigator, sharable by QR code or link
 
 * https://cuckoo.team/
@@ -12,26 +11,7 @@ Basic Repo to fork or branch for a Javascript Coding Kata
 
 ## Kata Catalogues
 
-* https://codingdojo.org/KataCatalogue/
-* http://codekata.com/
-
-## Getting Started 
-0. Create a Git(hub.io) account
-1. Fork this repo
-2. Individual preparation
-    *  Checkout the new repo with gitpod.io, e.g. using the corresponding link above
-
-    or
-
-    * install necessary tools, at least
-        * IDE suitable for JavaScript (e.g. visual studio Code, https://code.visualstudio.com/) 
-        * npm: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
-        * https://mob.sh/ 
-        * oh Git, of course, you need git...
-    * clone the new repo locally and open it your IDE
-    * run ```npm install```
-3. Make sure a ``npm run test:unit`` works.
-4. You're ready to start
+* https://www.codewars.com/kata/54b594b6fab5e97c28000f3f
 
 ## The Mob Session Itself
 
